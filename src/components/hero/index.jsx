@@ -8,7 +8,7 @@ const HeroSection = () => {
       <div className="container mx-auto flex min-h-screen items-center justify-center px-4">
         <div className="text-center">
           <h1 className="text-4xl font-extrabold tracking-tight text-gray-900 dark:text-white sm:text-5xl md:text-6xl">
-            The Future of Design is Here
+            Fetching Data from Backend using Axios
           </h1>
           <p className="mx-auto mt-6 max-w-2xl text-lg text-gray-600 dark:text-gray-300">
             Experience our revolutionary new product that combines elegance,
